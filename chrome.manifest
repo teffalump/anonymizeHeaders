@@ -1,0 +1,2 @@
+content anonymizeHeaders chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://anonymizeHeaders/content/myhelloworld.xul
