@@ -1,7 +1,6 @@
 <?xml version="1.0"?>  
-<overlay id="sample"   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">  
- <script type="application/javascript" src="chrome://anonymizeHeaders/content/overlay.js"/><!-- A reference to your JavaScript file -->  
- <statusbar id="status-bar">  
-  <statusbarpanel id="my-panel" label="Date"/>  
- </statusbar>  
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">  
+    <menubar id="mail-menubar">  
+        <menu id="my-button" label="Date"/>  
+    </menubar>  
 </overlay>  

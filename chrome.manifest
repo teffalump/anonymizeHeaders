@@ -1,2 +1,2 @@
-content anonymizeHeaders chrome/content/
-overlay chrome://messenger/content/messenger.xul chrome://anonymizeHeaders/content/myhelloworld.xul
+content anonymizeHeaders@tef.riseup chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://anonymizeHeaders@tef.riseup/content/anonymizeHeaders.xul
